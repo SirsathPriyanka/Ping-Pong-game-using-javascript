@@ -1,0 +1,45 @@
+<!DOCTYPE html> 
+<html>
+<title>Ping Pong Game</title>
+<body>
+	<center>
+		<h1><font ="Ubuntu Mono">Ping Pong Game</font></h1> 
+		<h2><a href = "index.html">Start Playing </a></h2>
+	</center> 
+	</br>
+	<h3><font color = "Red">   &nbsp&nbsp &nbsp &nbsp
+	Rules :</font></h3>
+		<ul>
+		   <li> You can choose game for single player as well as 2 players.</li></br>
+		   <li> If ball missed by paddle on one side, 1 point will be considered for another side.</li></br>
+		   <li> Game will continue till 10 points on either side.</li></br>
+		   <li> Speed of ball will increase as game goes on.</li>	
+		</ul>
+ 		</br>
+
+	<h3><font color = "Red">   &nbsp&nbsp &nbsp &nbsp
+	Regards :</font></h3>
+		<ul>
+		   <li> Vaidehi Deshpande (141508007) </li></br>
+		   <li> Shivani Mogre (141508008) </li></br>
+		   <li> Priyanka Sirsath (141508011) </li>
+		</ul>
+ 		</br></br>
+
+	<center>
+		<h2><font color = "Red">All the best!!!</font></h2>
+	</center>
+</body> 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
